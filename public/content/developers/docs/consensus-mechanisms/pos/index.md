@@ -1,4 +1,4 @@
----
+---1
 title: Proof-of-stake (PoS)
 description: An explanation of the proof-of-stake consensus protocol and its role in Ethereum.
 lang: en
